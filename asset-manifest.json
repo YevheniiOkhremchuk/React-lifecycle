@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-lifecycle.git/static/css/main.5f361e03.chunk.css",
+    "main.js": "/React-lifecycle.git/static/js/main.d8412cf1.chunk.js",
+    "main.js.map": "/React-lifecycle.git/static/js/main.d8412cf1.chunk.js.map",
+    "runtime-main.js": "/React-lifecycle.git/static/js/runtime-main.dc8b2207.js",
+    "runtime-main.js.map": "/React-lifecycle.git/static/js/runtime-main.dc8b2207.js.map",
+    "static/js/2.8a2690ab.chunk.js": "/React-lifecycle.git/static/js/2.8a2690ab.chunk.js",
+    "static/js/2.8a2690ab.chunk.js.map": "/React-lifecycle.git/static/js/2.8a2690ab.chunk.js.map",
+    "index.html": "/React-lifecycle.git/index.html",
+    "precache-manifest.02a4728837b733618ff09f2e4cafafaf.js": "/React-lifecycle.git/precache-manifest.02a4728837b733618ff09f2e4cafafaf.js",
+    "service-worker.js": "/React-lifecycle.git/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/React-lifecycle.git/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.8a2690ab.chunk.js.LICENSE.txt": "/React-lifecycle.git/static/js/2.8a2690ab.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/React-lifecycle.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc8b2207.js",
+    "static/js/2.8a2690ab.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.d8412cf1.chunk.js"
+  ]
+}
